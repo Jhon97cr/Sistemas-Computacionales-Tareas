@@ -1,0 +1,13 @@
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe.config
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\bin\Debug\Tarea 1.exe
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\bin\Debug\Tarea 1.pdb
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csprojAssemblyReference.cache
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea_1.Clase_string.resources
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea_1.Properties.Resources.resources
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.GenerateResource.cache
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea 1.csproj.CoreCompileInputs.cache
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea 1.exe
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea 1.pdb
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea_1.Clase_Math.resources
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea_1.Forms.Herencia_y_Abstraccion.resources
+C:\Users\Cinqu\source\repos\Tarea 1\Tarea 1\obj\Debug\Tarea_1.Forms.Inicio.resources
